@@ -14,3 +14,7 @@ Design & Development: Mengyang Li
 
 ### License
 Fanshawe College Mengyang Li
+
+### Roadmap
+
+https://docs.google.com/document/d/15SKYQJa60uZIk9GY2xwtQqM2BqBR2jWE1jF_V057_-g/edit
